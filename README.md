@@ -6,7 +6,7 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrokauan7&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia
+## 𝙻𝙸𝙽𝙶𝚄𝙰𝙶𝙴𝙽𝚂 𝚀𝚄𝙴 𝚄𝚂𝙾 𝙽𝙾 𝙼𝙴𝚄 𝙳𝙸𝙰 𝙰 𝙳𝙸𝙰
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
