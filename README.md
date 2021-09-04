@@ -4,3 +4,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://sujeitoprogramador.com)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrokauan7&show_icons=true&theme=radical)
+
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="" />
+</dive>
